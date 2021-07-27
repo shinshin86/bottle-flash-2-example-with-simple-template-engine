@@ -1,0 +1,11 @@
+ <h3>DONE</h3>
+ % messages = app.get_flashed_messages()
+ % if len(messages) > 0:
+    <div id="flash_messages">
+    <ul>
+    % for m in messages:
+        <li>{{ m[0] }}</li>
+    % end
+    </ul>
+    </div>
+ % end
