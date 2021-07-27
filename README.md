@@ -1,6 +1,6 @@
 # bottle-flash-2-example-with-simple-template-engine
 
-Example of [bottle-flash-2](https://github.com/shinshin86/bottle-flash2) with [SimpleTemplate Engine](https://bottlepy.org/docs/dev/stpl.html)
+Example of [bottle-flash2](https://github.com/shinshin86/bottle-flash2) with [SimpleTemplate Engine](https://bottlepy.org/docs/dev/stpl.html)
 
 
 
